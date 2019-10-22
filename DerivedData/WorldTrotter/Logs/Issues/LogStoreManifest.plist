@@ -5,7 +5,36 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>060C1AE6-A26B-4D8D-802B-C21652936853</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>060C1AE6-A26B-4D8D-802B-C21652936853.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>WorldTrotter-bccpuxhjnzwkrxfxubbdjsktnene</string>
+			<key>timeStartedRecording</key>
+			<real>593441182.63959002</real>
+			<key>timeStoppedRecording</key>
+			<real>593441184.93075395</real>
+			<key>title</key>
+			<string>Build target WorldTrotter</string>
+			<key>uniqueIdentifier</key>
+			<string>060C1AE6-A26B-4D8D-802B-C21652936853</string>
+		</dict>
+	</dict>
 	<key>preserveOldLogs</key>
 	<true/>
 </dict>
