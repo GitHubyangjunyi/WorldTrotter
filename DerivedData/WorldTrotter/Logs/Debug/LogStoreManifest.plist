@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>580A164E-85BC-414A-A85A-EF2F102AE43E</key>
+		<key>82EAE45C-70DB-4C53-B972-46B2DF07D714</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>580A164E-85BC-414A-A85A-EF2F102AE43E.xcactivitylog</string>
+			<string>82EAE45C-70DB-4C53-B972-46B2DF07D714.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,15 +32,15 @@
 			<key>signature</key>
 			<string>Debug WorldTrotter</string>
 			<key>timeStartedRecording</key>
-			<real>593440833.84643304</real>
+			<real>593494121.47570801</real>
 			<key>timeStoppedRecording</key>
-			<real>593440846.11951494</real>
+			<real>593494188.33464396</real>
 			<key>title</key>
 			<string>Debug WorldTrotter</string>
 			<key>uniqueIdentifier</key>
-			<string>580A164E-85BC-414A-A85A-EF2F102AE43E</string>
+			<string>82EAE45C-70DB-4C53-B972-46B2DF07D714</string>
 		</dict>
-		<key>CCDBD222-3588-4EC1-85A9-1A9DB20C7A6E</key>
+		<key>8F2CD3AF-414A-4E09-9147-A2A9CE40F5CF</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -49,7 +49,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>CCDBD222-3588-4EC1-85A9-1A9DB20C7A6E.xcactivitylog</string>
+			<string>8F2CD3AF-414A-4E09-9147-A2A9CE40F5CF.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -66,15 +66,15 @@
 			<key>signature</key>
 			<string>Debug WorldTrotter</string>
 			<key>timeStartedRecording</key>
-			<real>593440867.10489202</real>
+			<real>593494070.40468001</real>
 			<key>timeStoppedRecording</key>
-			<real>593440874.52451503</real>
+			<real>593494107.82966197</real>
 			<key>title</key>
 			<string>Debug WorldTrotter</string>
 			<key>uniqueIdentifier</key>
-			<string>CCDBD222-3588-4EC1-85A9-1A9DB20C7A6E</string>
+			<string>8F2CD3AF-414A-4E09-9147-A2A9CE40F5CF</string>
 		</dict>
-		<key>E56F3A0A-BDF3-44A3-81FE-834A464C499B</key>
+		<key>957F9E89-0E74-43DF-B91C-3EDBE8DDAD86</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -83,7 +83,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>E56F3A0A-BDF3-44A3-81FE-834A464C499B.xcactivitylog</string>
+			<string>957F9E89-0E74-43DF-B91C-3EDBE8DDAD86.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -100,15 +100,15 @@
 			<key>signature</key>
 			<string>Debug WorldTrotter</string>
 			<key>timeStartedRecording</key>
-			<real>593440763.29483795</real>
+			<real>593492238.99372494</real>
 			<key>timeStoppedRecording</key>
-			<real>593440776.33819795</real>
+			<real>593492262.27674401</real>
 			<key>title</key>
 			<string>Debug WorldTrotter</string>
 			<key>uniqueIdentifier</key>
-			<string>E56F3A0A-BDF3-44A3-81FE-834A464C499B</string>
+			<string>957F9E89-0E74-43DF-B91C-3EDBE8DDAD86</string>
 		</dict>
-		<key>E68D863E-2042-4115-85C5-0E6E4507E800</key>
+		<key>EA997247-A427-4E81-8349-2AB51700400D</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -117,7 +117,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>E68D863E-2042-4115-85C5-0E6E4507E800.xcactivitylog</string>
+			<string>EA997247-A427-4E81-8349-2AB51700400D.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -134,13 +134,13 @@
 			<key>signature</key>
 			<string>Debug WorldTrotter</string>
 			<key>timeStartedRecording</key>
-			<real>593440513.47479701</real>
+			<real>593493676.44086504</real>
 			<key>timeStoppedRecording</key>
-			<real>593440760.89416504</real>
+			<real>593493689.92837501</real>
 			<key>title</key>
 			<string>Debug WorldTrotter</string>
 			<key>uniqueIdentifier</key>
-			<string>E68D863E-2042-4115-85C5-0E6E4507E800</string>
+			<string>EA997247-A427-4E81-8349-2AB51700400D</string>
 		</dict>
 	</dict>
 </dict>
