@@ -6,6 +6,40 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>115F61C5-021F-42CA-AC09-AB99CE20A7B2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>115F61C5-021F-42CA-AC09-AB99CE20A7B2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WorldTrotter project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WorldTrotter</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WorldTrotter</string>
+			<key>timeStartedRecording</key>
+			<real>593526581.09344304</real>
+			<key>timeStoppedRecording</key>
+			<real>593526584.21780205</real>
+			<key>title</key>
+			<string>Build WorldTrotter</string>
+			<key>uniqueIdentifier</key>
+			<string>115F61C5-021F-42CA-AC09-AB99CE20A7B2</string>
+		</dict>
 		<key>32DC85FB-D7A7-465B-AD90-AFF51120068E</key>
 		<dict>
 			<key>className</key>

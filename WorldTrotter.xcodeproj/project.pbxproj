@@ -62,14 +62,14 @@
 		1C1CC586235F2E0100959555 /* WorldTrotter */ = {
 			isa = PBXGroup;
 			children = (
+				1C1CC595235F2E0300959555 /* Info.plist */,
 				1C1CC587235F2E0100959555 /* AppDelegate.swift */,
-				1C1CC589235F2E0100959555 /* SceneDelegate.swift */,
 				1C1CC59B235F2EC100959555 /* ConversionViewController.swift */,
-				1C1CC58D235F2E0100959555 /* Main.storyboard */,
+				1CF6F268236079FE00488C48 /* MapViewController.swift */,
+				1C1CC589235F2E0100959555 /* SceneDelegate.swift */,
 				1C1CC590235F2E0300959555 /* Assets.xcassets */,
 				1C1CC592235F2E0300959555 /* LaunchScreen.storyboard */,
-				1C1CC595235F2E0300959555 /* Info.plist */,
-				1CF6F268236079FE00488C48 /* MapViewController.swift */,
+				1C1CC58D235F2E0100959555 /* Main.storyboard */,
 			);
 			path = WorldTrotter;
 			sourceTree = "<group>";
