@@ -13,6 +13,7 @@
 		1C1CC591235F2E0300959555 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C1CC590235F2E0300959555 /* Assets.xcassets */; };
 		1C1CC594235F2E0300959555 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C1CC592235F2E0300959555 /* LaunchScreen.storyboard */; };
 		1C1CC59C235F2EC100959555 /* ConversionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C1CC59B235F2EC100959555 /* ConversionViewController.swift */; };
+		1CF6F2672360700C00488C48 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1CF6F2662360700C00488C48 /* MapKit.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1C1CC593235F2E0300959555 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1C1CC595235F2E0300959555 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1C1CC59B235F2EC100959555 /* ConversionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConversionViewController.swift; sourceTree = "<group>"; };
+		1CF6F2662360700C00488C48 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +33,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1CF6F2672360700C00488C48 /* MapKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -42,6 +45,7 @@
 			children = (
 				1C1CC586235F2E0100959555 /* WorldTrotter */,
 				1C1CC585235F2E0100959555 /* Products */,
+				1CF6F2652360700C00488C48 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -65,6 +69,14 @@
 				1C1CC595235F2E0300959555 /* Info.plist */,
 			);
 			path = WorldTrotter;
+			sourceTree = "<group>";
+		};
+		1CF6F2652360700C00488C48 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1CF6F2662360700C00488C48 /* MapKit.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

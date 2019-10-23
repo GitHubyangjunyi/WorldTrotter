@@ -40,7 +40,7 @@
 			<key>uniqueIdentifier</key>
 			<string>82EAE45C-70DB-4C53-B972-46B2DF07D714</string>
 		</dict>
-		<key>8F2CD3AF-414A-4E09-9147-A2A9CE40F5CF</key>
+		<key>DB5D5F4C-A111-4D5A-8BFD-447F413DBFAA</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -49,7 +49,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>8F2CD3AF-414A-4E09-9147-A2A9CE40F5CF.xcactivitylog</string>
+			<string>DB5D5F4C-A111-4D5A-8BFD-447F413DBFAA.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -66,81 +66,13 @@
 			<key>signature</key>
 			<string>Debug WorldTrotter</string>
 			<key>timeStartedRecording</key>
-			<real>593494070.40468001</real>
+			<real>593522706.24978697</real>
 			<key>timeStoppedRecording</key>
-			<real>593494107.82966197</real>
+			<real>593522777.00998402</real>
 			<key>title</key>
 			<string>Debug WorldTrotter</string>
 			<key>uniqueIdentifier</key>
-			<string>8F2CD3AF-414A-4E09-9147-A2A9CE40F5CF</string>
-		</dict>
-		<key>957F9E89-0E74-43DF-B91C-3EDBE8DDAD86</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>957F9E89-0E74-43DF-B91C-3EDBE8DDAD86.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>WorldTrotter project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>WorldTrotter</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Debug WorldTrotter</string>
-			<key>timeStartedRecording</key>
-			<real>593492238.99372494</real>
-			<key>timeStoppedRecording</key>
-			<real>593492262.27674401</real>
-			<key>title</key>
-			<string>Debug WorldTrotter</string>
-			<key>uniqueIdentifier</key>
-			<string>957F9E89-0E74-43DF-B91C-3EDBE8DDAD86</string>
-		</dict>
-		<key>EA997247-A427-4E81-8349-2AB51700400D</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>EA997247-A427-4E81-8349-2AB51700400D.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>WorldTrotter project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>WorldTrotter</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Debug WorldTrotter</string>
-			<key>timeStartedRecording</key>
-			<real>593493676.44086504</real>
-			<key>timeStoppedRecording</key>
-			<real>593493689.92837501</real>
-			<key>title</key>
-			<string>Debug WorldTrotter</string>
-			<key>uniqueIdentifier</key>
-			<string>EA997247-A427-4E81-8349-2AB51700400D</string>
+			<string>DB5D5F4C-A111-4D5A-8BFD-447F413DBFAA</string>
 		</dict>
 	</dict>
 </dict>
