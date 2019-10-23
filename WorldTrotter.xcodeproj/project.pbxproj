@@ -14,6 +14,7 @@
 		1C1CC594235F2E0300959555 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C1CC592235F2E0300959555 /* LaunchScreen.storyboard */; };
 		1C1CC59C235F2EC100959555 /* ConversionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C1CC59B235F2EC100959555 /* ConversionViewController.swift */; };
 		1CF6F2672360700C00488C48 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1CF6F2662360700C00488C48 /* MapKit.framework */; };
+		1CF6F269236079FE00488C48 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CF6F268236079FE00488C48 /* MapViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		1C1CC595235F2E0300959555 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1C1CC59B235F2EC100959555 /* ConversionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConversionViewController.swift; sourceTree = "<group>"; };
 		1CF6F2662360700C00488C48 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		1CF6F268236079FE00488C48 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				1C1CC590235F2E0300959555 /* Assets.xcassets */,
 				1C1CC592235F2E0300959555 /* LaunchScreen.storyboard */,
 				1C1CC595235F2E0300959555 /* Info.plist */,
+				1CF6F268236079FE00488C48 /* MapViewController.swift */,
 			);
 			path = WorldTrotter;
 			sourceTree = "<group>";
@@ -153,6 +156,7 @@
 				1C1CC588235F2E0100959555 /* AppDelegate.swift in Sources */,
 				1C1CC59C235F2EC100959555 /* ConversionViewController.swift in Sources */,
 				1C1CC58A235F2E0100959555 /* SceneDelegate.swift in Sources */,
+				1CF6F269236079FE00488C48 /* MapViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
