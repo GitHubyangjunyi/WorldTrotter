@@ -40,6 +40,40 @@
 			<key>uniqueIdentifier</key>
 			<string>0119F078-8ED0-4C09-B43C-3BC8B9D82926</string>
 		</dict>
+		<key>10E916BB-7DC1-4C74-93FF-9460D0C83441</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>10E916BB-7DC1-4C74-93FF-9460D0C83441.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WorldTrotter project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WorldTrotter</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WorldTrotter</string>
+			<key>timeStartedRecording</key>
+			<real>593573756.59749496</real>
+			<key>timeStoppedRecording</key>
+			<real>593573757.40788698</real>
+			<key>title</key>
+			<string>Build WorldTrotter</string>
+			<key>uniqueIdentifier</key>
+			<string>10E916BB-7DC1-4C74-93FF-9460D0C83441</string>
+		</dict>
 		<key>298B6F35-02C8-4FC5-A169-0785DC6A2E0F</key>
 		<dict>
 			<key>className</key>
@@ -73,6 +107,108 @@
 			<string>Build WorldTrotter</string>
 			<key>uniqueIdentifier</key>
 			<string>298B6F35-02C8-4FC5-A169-0785DC6A2E0F</string>
+		</dict>
+		<key>3389E20A-FA94-45C9-9082-B9867396C628</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3389E20A-FA94-45C9-9082-B9867396C628.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WorldTrotter project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WorldTrotter</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WorldTrotter</string>
+			<key>timeStartedRecording</key>
+			<real>593573753.95274603</real>
+			<key>timeStoppedRecording</key>
+			<real>593573754.933043</real>
+			<key>title</key>
+			<string>Build WorldTrotter</string>
+			<key>uniqueIdentifier</key>
+			<string>3389E20A-FA94-45C9-9082-B9867396C628</string>
+		</dict>
+		<key>51744B76-1EBA-45CE-B566-5648F928E97F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>51744B76-1EBA-45CE-B566-5648F928E97F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WorldTrotter project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WorldTrotter</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WorldTrotter</string>
+			<key>timeStartedRecording</key>
+			<real>593573684.92014897</real>
+			<key>timeStoppedRecording</key>
+			<real>593573685.38783503</real>
+			<key>title</key>
+			<string>Build WorldTrotter</string>
+			<key>uniqueIdentifier</key>
+			<string>51744B76-1EBA-45CE-B566-5648F928E97F</string>
+		</dict>
+		<key>5A34A4CD-AC67-45CC-8724-50256205CEA1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5A34A4CD-AC67-45CC-8724-50256205CEA1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WorldTrotter project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WorldTrotter</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WorldTrotter</string>
+			<key>timeStartedRecording</key>
+			<real>593574719.42255402</real>
+			<key>timeStoppedRecording</key>
+			<real>593574720.59037304</real>
+			<key>title</key>
+			<string>Build WorldTrotter</string>
+			<key>uniqueIdentifier</key>
+			<string>5A34A4CD-AC67-45CC-8724-50256205CEA1</string>
 		</dict>
 		<key>68F5E6AB-08D9-4161-91E1-4F8B9877398D</key>
 		<dict>
@@ -108,6 +244,40 @@
 			<key>uniqueIdentifier</key>
 			<string>68F5E6AB-08D9-4161-91E1-4F8B9877398D</string>
 		</dict>
+		<key>78D8FFCE-B878-4B69-93AB-43C7BB303460</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>78D8FFCE-B878-4B69-93AB-43C7BB303460.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WorldTrotter project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WorldTrotter</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WorldTrotter</string>
+			<key>timeStartedRecording</key>
+			<real>593573864.69317305</real>
+			<key>timeStoppedRecording</key>
+			<real>593573865.72407901</real>
+			<key>title</key>
+			<string>Build WorldTrotter</string>
+			<key>uniqueIdentifier</key>
+			<string>78D8FFCE-B878-4B69-93AB-43C7BB303460</string>
+		</dict>
 		<key>87238AE6-29E9-4DA5-8D01-C459677282B1</key>
 		<dict>
 			<key>className</key>
@@ -142,6 +312,40 @@
 			<key>uniqueIdentifier</key>
 			<string>87238AE6-29E9-4DA5-8D01-C459677282B1</string>
 		</dict>
+		<key>8768415B-906D-47FB-8D5F-A80FCFE61FE8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8768415B-906D-47FB-8D5F-A80FCFE61FE8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WorldTrotter project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WorldTrotter</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WorldTrotter</string>
+			<key>timeStartedRecording</key>
+			<real>593573741.26937997</real>
+			<key>timeStoppedRecording</key>
+			<real>593573741.71127105</real>
+			<key>title</key>
+			<string>Build WorldTrotter</string>
+			<key>uniqueIdentifier</key>
+			<string>8768415B-906D-47FB-8D5F-A80FCFE61FE8</string>
+		</dict>
 		<key>9E45CEC7-0846-4CA2-B994-643D575EF6F5</key>
 		<dict>
 			<key>className</key>
@@ -175,6 +379,108 @@
 			<string>Build WorldTrotter</string>
 			<key>uniqueIdentifier</key>
 			<string>9E45CEC7-0846-4CA2-B994-643D575EF6F5</string>
+		</dict>
+		<key>A547AB5F-0B67-4F5B-BBBB-A414FD72251C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A547AB5F-0B67-4F5B-BBBB-A414FD72251C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WorldTrotter project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WorldTrotter</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WorldTrotter</string>
+			<key>timeStartedRecording</key>
+			<real>593573858.46821105</real>
+			<key>timeStoppedRecording</key>
+			<real>593573858.92600298</real>
+			<key>title</key>
+			<string>Build WorldTrotter</string>
+			<key>uniqueIdentifier</key>
+			<string>A547AB5F-0B67-4F5B-BBBB-A414FD72251C</string>
+		</dict>
+		<key>A9D3C605-DC73-4684-825D-74ED3E228B4A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A9D3C605-DC73-4684-825D-74ED3E228B4A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WorldTrotter project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WorldTrotter</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WorldTrotter</string>
+			<key>timeStartedRecording</key>
+			<real>593573838.29861999</real>
+			<key>timeStoppedRecording</key>
+			<real>593573838.79146302</real>
+			<key>title</key>
+			<string>Build WorldTrotter</string>
+			<key>uniqueIdentifier</key>
+			<string>A9D3C605-DC73-4684-825D-74ED3E228B4A</string>
+		</dict>
+		<key>B94D2FE8-7A88-4DFF-B9F3-7C35B5E502AA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B94D2FE8-7A88-4DFF-B9F3-7C35B5E502AA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WorldTrotter project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WorldTrotter</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WorldTrotter</string>
+			<key>timeStartedRecording</key>
+			<real>593574417.09042597</real>
+			<key>timeStoppedRecording</key>
+			<real>593574418.47960401</real>
+			<key>title</key>
+			<string>Build WorldTrotter</string>
+			<key>uniqueIdentifier</key>
+			<string>B94D2FE8-7A88-4DFF-B9F3-7C35B5E502AA</string>
 		</dict>
 		<key>C8AD08AD-A4C7-4C99-8B5F-84641E21CC90</key>
 		<dict>
@@ -277,6 +583,40 @@
 			<string>Build WorldTrotter</string>
 			<key>uniqueIdentifier</key>
 			<string>F460C070-653F-40E8-B082-3B495BDE2EA7</string>
+		</dict>
+		<key>F6031CEA-04BB-4872-A80D-81B16B927B30</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F6031CEA-04BB-4872-A80D-81B16B927B30.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WorldTrotter project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WorldTrotter</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WorldTrotter</string>
+			<key>timeStartedRecording</key>
+			<real>593574927.92557395</real>
+			<key>timeStoppedRecording</key>
+			<real>593574928.91125798</real>
+			<key>title</key>
+			<string>Build WorldTrotter</string>
+			<key>uniqueIdentifier</key>
+			<string>F6031CEA-04BB-4872-A80D-81B16B927B30</string>
 		</dict>
 	</dict>
 </dict>

@@ -52,8 +52,8 @@ class ConversionViewController: UIViewController, UITextFieldDelegate
     
     //华氏度文本框内容改变时触发
     @IBAction func fahrenHeitFieldEditingChanged(_ textField: UITextField){
-        if let text = textField.text, let value = Double(text) {//如果有文字并且能够被转化成数值则华氏度值更新为值为value的Measurement对象
-            fahrenheitValue = Measurement(value: value, unit: .fahrenheit)
+        if let text = textField.text, let number = numberFormatter.number(from: text) {//如果有文字并且能够被转化成数值则华氏度值更新为值为value的Measurement对象
+            fahrenheitValue = Measurement(value: number.doubleValue, unit: .fahrenheit)
         } else {
             fahrenheitValue = nil
         }
@@ -66,9 +66,10 @@ class ConversionViewController: UIViewController, UITextFieldDelegate
     
     //禁止输入两个小数点
     func textField(_ textField: UITextField, shouldChangeCharactersIn range: NSRange, replacementString string: String) -> Bool {
-        
-        let existingTextHasDecimalSeparator = textField.text?.range(of: ".")
-        let replacementTextHasDecimalSeparator = string.range(of: ".")
+        let currentLocal = NSLocale.current
+        let decimalSeparator = currentLocal.decimalSeparator ?? "."
+        let existingTextHasDecimalSeparator = textField.text?.range(of: decimalSeparator)
+        let replacementTextHasDecimalSeparator = string.range(of: decimalSeparator)
         
         if existingTextHasDecimalSeparator != nil && replacementTextHasDecimalSeparator != nil {
             return false
